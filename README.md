@@ -4,7 +4,9 @@
 </br>
 UI 배치, 콘텐츠 레이아웃 등 정형화되지 않은 그리드가 필요한 경우를 목적으로 합니다.</br>
 
-**예제 프로젝트** ⇒ https://github.com/Seok-Min-Lee/PP_03_02_GridWall</br>
+[예제 프로젝트](https://github.com/Seok-Min-Lee/PP_03_02_GridWall)  
+![aa](https://github.com/Seok-Min-Lee/PP_03_02_GridWall/blob/main/Preview.gif)  
+
 
 ### 조절 가능한 파라미터
 <table>
